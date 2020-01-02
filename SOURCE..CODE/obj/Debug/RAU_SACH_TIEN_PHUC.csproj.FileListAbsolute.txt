@@ -1,0 +1,14 @@
+D:\NguyenDaoThanhTruc_DACN_098\RAU S_CH - THANH TRÚC - 2017.07.05 - 03.23 (1)\RAU SoCH - THANH TRUC - 2017.07.05 - 03.23\SOURCE..CODE\bin\RAU_SACH_THANH_TRUC.dll.config
+D:\NguyenDaoThanhTruc_DACN_098\RAU S_CH - THANH TRÚC - 2017.07.05 - 03.23 (1)\RAU SoCH - THANH TRUC - 2017.07.05 - 03.23\SOURCE..CODE\bin\RAU_SACH_THANH_TRUC.dll
+D:\NguyenDaoThanhTruc_DACN_098\RAU S_CH - THANH TRÚC - 2017.07.05 - 03.23 (1)\RAU SoCH - THANH TRUC - 2017.07.05 - 03.23\SOURCE..CODE\bin\RAU_SACH_THANH_TRUC.pdb
+D:\NguyenDaoThanhTruc_DACN_098\RAU S_CH - THANH TRÚC - 2017.07.05 - 03.23 (1)\RAU SoCH - THANH TRUC - 2017.07.05 - 03.23\SOURCE..CODE\obj\Debug\RAU_SACH_TIEN_PHUC.csproj.CoreCompileInputs.cache
+D:\NguyenDaoThanhTruc_DACN_098\RAU S_CH - THANH TRÚC - 2017.07.05 - 03.23 (1)\RAU SoCH - THANH TRUC - 2017.07.05 - 03.23\SOURCE..CODE\obj\Debug\RAU_SACH_THANH_TRUC.dll
+D:\NguyenDaoThanhTruc_DACN_098\RAU S_CH - THANH TRÚC - 2017.07.05 - 03.23 (1)\RAU SoCH - THANH TRUC - 2017.07.05 - 03.23\SOURCE..CODE\obj\Debug\RAU_SACH_THANH_TRUC.pdb
+D:\NguyenDaoThanhTruc_DACN_098\RAU S_CH - THANH TRÚC - 2017.07.05 - 03.23 (1)\RAU SoCH - THANH TRUC - 2017.07.05 - 03.23\SOURCE..CODE\obj\Debug\RAU_SACH_TIEN_PHUC.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\RausachHoangTienPhuc_0098\RausachHoangTienPhuc_0098\RausachHoangTienPhuc_0098\SOURCE..CODE\bin\RAU_SACH_THANH_TRUC.dll.config
+C:\Users\Admin\Desktop\RausachHoangTienPhuc_0098\RausachHoangTienPhuc_0098\RausachHoangTienPhuc_0098\SOURCE..CODE\bin\RAU_SACH_THANH_TRUC.dll
+C:\Users\Admin\Desktop\RausachHoangTienPhuc_0098\RausachHoangTienPhuc_0098\RausachHoangTienPhuc_0098\SOURCE..CODE\bin\RAU_SACH_THANH_TRUC.pdb
+C:\Users\Admin\Desktop\RausachHoangTienPhuc_0098\RausachHoangTienPhuc_0098\RausachHoangTienPhuc_0098\SOURCE..CODE\obj\Debug\RAU_SACH_TIEN_PHUC.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\RausachHoangTienPhuc_0098\RausachHoangTienPhuc_0098\RausachHoangTienPhuc_0098\SOURCE..CODE\obj\Debug\RAU_SACH_TIEN_PHUC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\RausachHoangTienPhuc_0098\RausachHoangTienPhuc_0098\RausachHoangTienPhuc_0098\SOURCE..CODE\obj\Debug\RAU_SACH_THANH_TRUC.dll
+C:\Users\Admin\Desktop\RausachHoangTienPhuc_0098\RausachHoangTienPhuc_0098\RausachHoangTienPhuc_0098\SOURCE..CODE\obj\Debug\RAU_SACH_THANH_TRUC.pdb
